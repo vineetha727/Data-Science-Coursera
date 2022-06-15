@@ -1,1 +1,4 @@
 
+The Assignment is done on IBM Whatson by uploading the .csv files to IB DB2 in IBM Watson.
+Here is the link to the notebook:
+https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/fea5b138-74f3-44a0-9c52-943436b3e7bc/view?access_token=fb7e44b0fcf3f371ac2b0f16fe169543787229f418672c20a9a3fba11816fe2f
